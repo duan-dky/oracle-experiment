@@ -1,2 +1,2 @@
 # oracle-experiment
-学校的oracle实验
+oracle数据库实验
